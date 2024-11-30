@@ -1,0 +1,5 @@
+{
+    "Competitor A": {"market_share": 20, "tech_level": 8},
+    "Competitor B": {"market_share": 15, "tech_level": 6},
+    "Competitor C": {"market_share": 10, "tech_level": 5}
+}
